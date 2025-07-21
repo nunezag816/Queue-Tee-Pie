@@ -1,3 +1,5 @@
+package org.example;
+
 public class QueueTees {
     private final int MAX_SIZE = 10;
     private Cutie[] queue;
